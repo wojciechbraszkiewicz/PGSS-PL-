@@ -62,7 +62,7 @@ W pierwszym kroku należy zastanowić się nad wyborem odpowiednich zmiennych do
 
 ## Przerobienie danych
 
-W pliku `P0091DOC` znajduje się opis każdej zmiennej. Po przeanalizowaniu tego dokumentu wybrałem cztery przykładowe zmienne przykładowe zmienne:
+W pliku `P0091DOC` znajduje się opis każdej zmiennej.
 Do badania dwóch zmiennych jakościowych wybrałem zmienne:
 * q87c - Zadowolenie z życia w rodzinie. (Wartości od 1 do 8)
 * q107 - Stosunek do bicia dzieci. (Wartości od 1 do 8)
