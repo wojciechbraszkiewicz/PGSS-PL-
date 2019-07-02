@@ -238,7 +238,7 @@ shapiro.test(pgss_clean$q9age[pgss_clean$q144gx == "Internet w domu"])
 ##W = 0.95942, p-value = 1.207e-13
 ```
 
-Jak widać, w obu przypadkach **nie mamy podstaw do odrzucenia hipotezy zerowej**. W związku z tym zakładamy, że oba rozkłady **nie są** normalne.
+Jak widać, w obu przypadkach **mamy podstawy do odrzucenia hipotezy zerowej**. W związku z tym zakładamy, że oba rozkłady **nie są** normalne.
 
 
 ### Test rang
