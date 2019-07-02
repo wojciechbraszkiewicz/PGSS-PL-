@@ -1,5 +1,5 @@
 # Autor
-Projekt autorstwa Wojciecha Brąszkiewicza.
+Projekt autorstwa Wojciecha Brąszkiewicza.<br/>
 wojciechbraszkiewicz96@gmail.com
 
 # Wytyczne
