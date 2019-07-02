@@ -25,7 +25,7 @@ Ogólnym celem PGSS jest systematyczny pomiar trendów i skutków zmian społecz
 Projekt został stworzony w [języku R](https://www.r-project.org/), w środowisku [R Studio](https://www.rstudio.com/). Jeśli będą Państwo chcieli wprowadzić jakieś zmiany w kodzie to należy pobrać oba te elementy.
 
 
-#Kod
+# Kod
 
 Po otworzeniu R studio należy stworzyć nowy projekt oraz skrypt R (lub R markdown).
 
